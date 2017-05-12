@@ -101,7 +101,7 @@ const tipbotTxt = {
     'CheckBalanceAdminOnly': 'Only admins can check other balances!',
     'CheckBalanceNoUserFound': 'No user found to check. Did you use the prefix @ ?',
 // GENERAL
-    'NoAmountFound': ' couldn\'t\'t find the amount. Did you forget the decimal ?',
+    'NoAmountFound': ' couldn\'t find the amount. Did you forget the decimal ?',
     'NoValidAddress': ' that\'s not a valid address!',
     'MoreThen1Address': ' I can\'t do a withdraw to more than 1 address',
     'NoAddress': ' I need to know an address to withdraw to.',
